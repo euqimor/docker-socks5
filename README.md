@@ -2,7 +2,8 @@
 Docker container for socks5 proxy
 * based on https://github.com/wernight/docker-dante
 * updated to use alpine3.7, dumb-init1.2.1
-* supports user creation on docker build
+* turned authentication on by default
+* added user creation on docker build
 
 ## Usage
 
